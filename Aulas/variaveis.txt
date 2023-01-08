@@ -1,0 +1,16 @@
+Principais variáveis
+
+- char   = caracteres
+- int    = números inteiros
+- float  = números reais com precisão
+- double = números reais com precisão maior que o float
+- void   = tipo vazio
+
+Variações desses tipos
+
+- unsigned char     = caracter sem sinal
+- long int          = número inteiro, com domínio estendido
+- insigned int      = número inteiro positivo
+- unsigned long int = número inteiro positivo com domínio estendido
+- sort int          = inteiro com domínio reduzido
+- unsigned sort int = inteiro positivo com domínio reduzido

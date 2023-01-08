@@ -1,0 +1,3 @@
+Para fazermos comentários na linguagem C usamos /**/.
+
+Ex: /* Aqui seria um comentário. */
